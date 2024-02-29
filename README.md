@@ -1,2 +1,2 @@
 Exercițiu la ISP
-Program care simulează un magazin online, realizat după o diagramă UML
+Program care simulează un magazin online, realizat după o diagramă UML (ex3.jpg)
